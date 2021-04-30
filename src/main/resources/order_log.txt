@@ -1,0 +1,36 @@
+
+==============================================
+id : 3 . Difference in text : 215,Ritter Company . Expect : 3,2664 . Actual : 2,1665,Ritter Company
+id : 2 . Difference in text : 16,Ritter Company . Expect : 2,1665 . Actual : 1,666,Ritter Company
+id : 1 . Difference in text : 324,Ritter Company . Expect : 1,666 . Actual : 3,2664,Ritter Company
+Not all rows are equal
+Total rows in expected csv : 3
+Total rows in actual csv : 3
+Total unequal rows : 3
+
+==============================================
+
+==============================================
+All rows are equal
+Total rows in expected csv : 9
+Total rows in actual csv : 9
+Total unequal rows : 0
+
+==============================================
+
+==============================================
+id : 1 . Difference in text : ,Ritter Company . Expect : 1,Test Order 1,1,111 . Actual : 1,Test Order 1,1,111,Ritter Company
+id : 2 . Difference in text : ,Ritter Company . Expect : 2,Test Order 2,1,222 . Actual : 2,Test Order 2,1,222,Ritter Company
+id : 3 . Difference in text : ,Ritter Company . Expect : 3,Test Order 3,1,333 . Actual : 3,Test Order 3,1,333,Ritter Company
+id : 4 . Difference in text : ,Ritter Company . Expect : 4,Test Order 4,2,444 . Actual : 4,Test Order 4,2,444,Ritter Company
+id : 5 . Difference in text : ,Ritter Company . Expect : 5,Test Order 5,2,555 . Actual : 5,Test Order 5,2,555,Ritter Company
+id : 6 . Difference in text : ,Ritter Company . Expect : 6,Test Order 6,2,666 . Actual : 6,Test Order 6,2,666,Ritter Company
+id : 7 . Difference in text : ,Ritter Company . Expect : 7,Test Order 7,3,777 . Actual : 7,Test Order 7,3,777,Ritter Company
+id : 8 . Difference in text : ,Ritter Company . Expect : 8,Test Order 8,3,888 . Actual : 8,Test Order 8,3,888,Ritter Company
+id : 9 . Difference in text : ,Ritter Company . Expect : 9,Test Order 9,3,999 . Actual : 9,Test Order 9,3,999,Ritter Company
+Not all rows are equal
+Total rows in expected csv : 9
+Total rows in actual csv : 9
+Total unequal rows : 9
+
+==============================================

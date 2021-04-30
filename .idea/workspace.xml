@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="034d4b47-f7f8-4247-b9e4-2e061edda1b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rttAokxJrXXTkrFWqLRuU2KEcY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMigrationTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="6lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMigrationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderMigrationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMigrationTests.testMigratedOrdersWithGroupBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderMigrationTests" />
+      <option name="METHOD_NAME" value="testMigratedOrdersWithGroupBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMigrationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMigrationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMigrationTests.testMigratedOrdersReturnAllRowsEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserMigrationTests" />
+      <option name="METHOD_NAME" value="testMigratedOrdersReturnAllRowsEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMigrationTests" />
+        <item itemvalue="JUnit.OrderMigrationTests" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.OrderMigrationTests.testMigratedOrdersWithGroupBy" />
+        <item itemvalue="JUnit.UserMigrationTests.testMigratedOrdersReturnAllRowsEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/recfun-20200917T085357Z-001/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/3 Lab/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/4 Lab/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/5 Lab/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/6 Lab/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/7 Lab/codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/8 Lab/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/9 Lab/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ФІОТ/3 Курс/FP/KW/etl" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="034d4b47-f7f8-4247-b9e4-2e061edda1b8" name="Default Changelist" comment="" />
+      <created>1619807072759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619807072759</updated>
+      <workItem from="1619807079267" duration="12165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="74" key="#Project_Structure" timestamp="1619807736422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1619807736422" />
+    <state x="135" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619815509036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="135" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1619815509036" />
+    <state x="183" y="275" width="403" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1619822949718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="275" width="403" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1619822949718" />
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom" timestamp="1619826630238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619826630238" />
+    <state width="1493" height="232" key="GridCell.Tab.0.center" timestamp="1619826630238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619826630238" />
+    <state width="1493" height="232" key="GridCell.Tab.0.left" timestamp="1619826630238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619826630238" />
+    <state width="1493" height="232" key="GridCell.Tab.0.right" timestamp="1619826630238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="232" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619826630238" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1619816725389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1619816725389" />
+  </component>
+</project>

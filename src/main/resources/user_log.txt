@@ -1,0 +1,25 @@
+
+==============================================
+All rows are equal
+Total rows in expected csv : 9
+Total rows in actual csv : 9
+Total unequal rows : 0
+
+==============================================
+
+==============================================
+id : 1 . Difference in text : ,ritter . Expect : 1,Test1,test1@gmail.com,+380973643131,Test1Test . Actual : 1,Test1,test1@gmail.com,+380973643131,Test1Test,ritter
+id : 2 . Difference in text : ,ritter . Expect : 2,Test2,test2@gmail.com,+380973643132,Test2Test . Actual : 2,Test2,test2@gmail.com,+380973643132,Test2Test,ritter
+id : 3 . Difference in text : ,ritter . Expect : 3,Test3,test3@gmail.com,+380973643133,Test3Test . Actual : 3,Test3,test3@gmail.com,+380973643133,Test3Test,ritter
+id : 4 . Difference in text : ,ritter . Expect : 4,Test4,test4@gmail.com,+380973643134,Test4Test . Actual : 4,Test4,test4@gmail.com,+380973643134,Test4Test,ritter
+id : 5 . Difference in text : ,ritter . Expect : 5,Test5,test5@gmail.com,+380973643135,Test5Test . Actual : 5,Test5,test5@gmail.com,+380973643135,Test5Test,ritter
+id : 6 . Difference in text : ,ritter . Expect : 6,Test6,test6@gmail.com,+380973643136,Test6Test . Actual : 6,Test6,test6@gmail.com,+380973643136,Test6Test,ritter
+id : 7 . Difference in text : ,ritter . Expect : 7,Test7,test7@gmail.com,+380973643137,Test7Test . Actual : 7,Test7,test7@gmail.com,+380973643137,Test7Test,ritter
+id : 8 . Difference in text : ,ritter . Expect : 8,Test8,test8@gmail.com,+380973643138,Test8Test . Actual : 8,Test8,test8@gmail.com,+380973643138,Test8Test,ritter
+id : 9 . Difference in text : ,ritter . Expect : 9,Test9,test9@gmail.com,+380973643139,Test9Test . Actual : 9,Test9,test9@gmail.com,+380973643139,Test9Test,ritter
+Not all rows are equal
+Total rows in expected csv : 9
+Total rows in actual csv : 9
+Total unequal rows : 9
+
+==============================================
